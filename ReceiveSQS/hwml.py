@@ -93,8 +93,7 @@ def lambda_handler(content, context):
                 print ("final success")
             else:
                 sns_client.publish(
-                    #PhoneNumber = '+1' + PhoneNumber,
-                    PhoneNumber = '+13473344481',
+                    PhoneNumber = '+1' + PhoneNumber,
                     Message='Sorry, we fail to get the result. Please try again with the appropriate requirements!'
                     )
                 

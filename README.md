@@ -1,7 +1,6 @@
 # E6998-Cloud-Computing-Project
 
-### Course Project for E6998 Cloud Computing & Big Data
-#### Jan. 2018 – May. 2018
+### Jan. 2018 – May. 2018
 
 - Built an AI customer service chat bot interface with Angular 5 using Amazon Lex service to give restaurant suggestions
 

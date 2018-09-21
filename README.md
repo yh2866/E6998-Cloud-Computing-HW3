@@ -12,3 +12,4 @@
 - Scraped 5,000 restaurants through Yelp API into DynamoDB and used Amazon ML get restaurant prediction index 
 
 - Implemented AWS Lambda and SQS queue to get restaurant suggestions using Elasticsearch and  SNS message
+

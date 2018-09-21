@@ -13,4 +13,4 @@
 
 - Implemented AWS Lambda and SQS queue to get restaurant suggestions using Elasticsearch and  SNS message
 
-(ArchitectureDiagram.png)
+![Image of Architecture](https://github.com/yh2866/E6998-Cloud-Computing-Project/blob/master/ArchitectureDiagram.png)
